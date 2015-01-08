@@ -1,4 +1,4 @@
-package com.FAZAN.server;
+package com.fazan.server;
  
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

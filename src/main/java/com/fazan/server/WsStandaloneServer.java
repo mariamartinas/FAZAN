@@ -1,4 +1,4 @@
-package com.FAZAN.server;
+package com.fazan.server;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;

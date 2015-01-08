@@ -1,4 +1,4 @@
-package com.FAZAN.server;
+package com.fazan.server;
 
 public class Del {
 public static void main(String[] args) {
